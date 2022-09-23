@@ -2,7 +2,10 @@
   url:
   photo: DanR.jpg
   affil: Eduardo D. Glandt Distinguished Professor, University of Pennsylvania | VP/Distinguished Scientist, AWS AI
-  bio: ""
+  bio: "Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, UPenn, VP/Distinguished Scientist at AWS AI-Labs, and a Fellow of the AAAS, ACM, AAAI, and ACL.
+In 2017, he was awarded the John McCarthy Award, the highest award the AI community gives to mid-career AI researchers. Roth was recognized ``for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning.''
+Roth has published broadly in machine learning, NLP, KRR, and learning theory, and has given keynote talks and tutorials in all ACL and AAAI major conferences. 
+Roth was the Editor-in-Chief of JAIR until 2017, and was the program chair of AAAI'11, ACL'03 and CoNLL'02; he  serves regularly as an area chair and senior program committee member in the major conferences in his research areas. "
   category: speakers
 
 - name: Yejin Choi
