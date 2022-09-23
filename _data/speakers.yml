@@ -1,7 +1,7 @@
 - name: Dan Roth
   url:
   photo: DanR.jpg
-  affil: Eduardo D. Glandt Distinguished Professor, University of Pennsylvania | VP and Distinguished Scientist, AWS AI
+  affil: Eduardo D. Glandt Distinguished Professor, University of Pennsylvania | VP/Distinguished Scientist, AWS AI
   bio: ""
   category: speakers
 
@@ -21,7 +21,7 @@
 
 - name: Dan Goldwasser
   url:
-  photo: DanG.jpg
+  photo: DanG.png
   affil: Associate Professor, Purdue University
   bio: ""
   category: speakers
@@ -35,7 +35,7 @@
 
 - name: Sean Welleck
   url:
-  photo: SeanW.jpg
+  photo: SeanW.png
   affil: Postdoctoral Scholar, University of Washington | Young Investigator, AI2
   bio: ""
   category: speakers
