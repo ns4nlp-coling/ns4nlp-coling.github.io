@@ -1,5 +1,5 @@
 - name: Dan Roth
-  url:
+  url: https://www.cis.upenn.edu/~danroth/
   photo: DanR.jpg
   affil: Eduardo D. Glandt Distinguished Professor, University of Pennsylvania | VP/Distinguished Scientist, AWS AI
   bio: "Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, UPenn, VP/Distinguished Scientist at AWS AI-Labs, and a Fellow of the AAAS, ACM, AAAI, and ACL.
@@ -9,7 +9,7 @@ Roth was the Editor-in-Chief of JAIR until 2017, and was the program chair of AA
   category: speakers
 
 - name: Yejin Choi
-  url:
+  url: https://homes.cs.washington.edu/~yejin/
   photo: YejinCh.jpg
   affil: Brett Helsel Professor, University of Washington | Senior Research Manager, AI2
   bio: "Yejin Choi is the Brett Helsel Professor at the Paul G. Allen School of CSE at the University of Washington with a dual appointment at AI2. Her research investigates commonsense knowledge and reasoning, neuro-symbolic integration, multimodal representation learning, and AI for social good. She is a co-recipient of the ACL Test of Time award in 2021, the CVPR Longuet-Higgins Prize in 2021, the AAAI Outstanding Paper Award in 2020, the Borg Early Career Award in 2018, the Alexa Prize in 2017, IEEE AI's 10 to Watch in 2016, and the ICCV Marr Prize in 2013.
@@ -17,28 +17,28 @@ Yejin (together with Dan Roth) gave a tutorial at ACL 2020 on Commonsense Reason
   category: speakers
 
 - name: Vivek Srikumar
-  url:
+  url: https://svivek.com/
   photo: VivekS.jpg
   affil: Associate Professor, The University of Utah
   bio: "Vivek Srikumar is an Associate Professor in the School of Computing at the University of Utah. His research lies in the areas of natural language processing and machine learning, and has primarily been driven by the question of efficiently reasoning about text with only limited supervision. His work has been published in various AI, NLP and machine learning venues, and has been recognized by a best paper award at EMNLP 2014 and honorable mentions from CoNLL and IEEE Micro magazine. He serves on the editorial boards of JAIR and the CL journal, and is an associate program chair for AAAI 2022. He has presented tutorials on structured prediction and debiasing text representations at various NLP and AI venues in the past."
   category: speakers
 
 - name: Dan Goldwasser
-  url:
+  url: https://www.cs.purdue.edu/homes/dgoldwas/
   photo: DanG.png
   affil: Associate Professor, Purdue University
   bio: "Dan Goldwasser is an Associate Professor at the Department of Computer Science at Purdue University. His current interests focus on developing representation and reasoning frameworks for computational social science applications, used for grounding political discourse and understanding real-world scenarios.  His work is published at the main AI and NLP venues, such as ACL, NAACL, EMNLP and AAAI. He has received research support from the NSF, including a recent CAREER award, DARPA and Google. Dan is on the editorial board of JAIR and regularly serves as an area chair and senior program committee member in major AI and NLP conferences. He has given several tutorials, including a shorter version of this tutorial in IJCAI 2021, together with Maria Pacheco."
   category: speakers
 
 - name: Maria L. Pacheco
-  url:
+  url: https://mlpacheco.github.io/
   photo: MariaP.jpg
   affil: Postdoctoral Researcher, Microsoft Research | Visting Assistant Professor, University of Colorado Boulder
   bio: "Maria L. Pacheco is a Postdoctoral Researcher at Microsoft Research NYC, and an Incoming Assistant Professor in the Department of Computer Science at the University of Colorado Boulder. Her research focuses broadly on neuro-symbolic representations for language applications, and the role they play in human-AI communication. Maria has published and served in the program committee for top conferences and journals in AI and NLP, such as AAAI, TACL, NAACL, EMNLP, EACL, CoNLL, and SIGDIAL. Maria has delivered tutorials and talks on neuro-symbolic modeling for NLP to diverse audiences, including a shorter version of this tutorial in IJCAI 2021, together with Dan Goldwasser."
   category: speakers
 
 - name: Sean Welleck
-  url:
+  url: https://cs.nyu.edu/~welleck/
   photo: SeanW.png
   affil: Postdoctoral Scholar, University of Washington | Young Investigator, AI2
   bio: "Sean Welleck is a Postdoctoral Scholar at the University of Washington and AI2. He earned his PhD at New York University. His research focuses on generating and reasoning with natural language, including neural theorem proving and integrating symbolic representations into neural language generation. He has published at and served as a program committee member for NeurIPS, ICLR, ICML, AAAI, EMNLP, and ACL, hosts the Thesis Review podcast, and organized the NeurIPS 2021 workshop on Math-AI for Education."
