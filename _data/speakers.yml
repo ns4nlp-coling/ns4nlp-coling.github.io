@@ -1,16 +1,15 @@
 - name: Dan Roth
   url:
   photo: DanR.jpg
-  affil: Eduardo D. Glandt Distinguished Professor, University of Pennsylvania and VP and Distinguished Scientist, AWS AI
+  affil: Eduardo D. Glandt Distinguished Professor, University of Pennsylvania | VP and Distinguished Scientist, AWS AI
   bio: ""
   category: speakers
 
 - name: Yejin Choi
   url:
   photo: YejinCh.jpg
-  affil: Brett Helsel Professor, University of Washington and Senior Research Manager, AI2
+  affil: Brett Helsel Professor, University of Washington | Senior Research Manager, AI2
   bio: ""
-  category: speakers
   category: speakers
 
 - name: Vivek Srikumar
@@ -18,7 +17,6 @@
   photo: VivekS.jpg
   affil: Associate Professor, The University of Utah
   bio: ""
-  category: speakers
   category: speakers
 
 - name: Dan Goldwasser
@@ -31,13 +29,13 @@
 - name: Maria L. Pacheco
   url:
   photo: MariaP.jpg
-  affil: Postdoctoral Researcher, Microsoft Research and Visting Assistant Professor, University of Colorado Boulder
+  affil: Postdoctoral Researcher, Microsoft Research | Visting Assistant Professor, University of Colorado Boulder
   bio: ""
   category: speakers
 
 - name: Sean Welleck
   url:
   photo: SeanW.jpg
-  affil: Postdoctoral Scholar, University of Washington and Young Investigator, AI2
+  affil: Postdoctoral Scholar, University of Washington | Young Investigator, AI2
   bio: ""
   category: speakers
