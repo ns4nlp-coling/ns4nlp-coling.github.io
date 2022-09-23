@@ -1,0 +1,29 @@
+- name: Megan deBettencourt
+  url: http://home.uchicago.edu/~debetten/
+  photo: MdB.jpg
+  affil: Postdoc, University of Chicago
+  category: panelists
+
+- name: David Ha
+  url: https://research.google/people/105004/
+  photo: DH.png
+  affil: Research Scientist, Google Brain
+  category: panelists
+
+- name: Ramakrishna Vedantam
+  url: https://vrama91.github.io
+  photo: RV.png
+  affil: Research Scientist, Facebook AI Research (FAIR)
+  category: panelists
+
+- name: Cyril Zhang
+  url: https://cyrilzhang.com/
+  photo: CZ.jpg
+  affil: Senior Researcher, Microsoft Research
+  category: panelists
+
+- name: Ashish Vaswani
+  url: https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en
+  photo: AV.jpg
+  affil: Chief Scientist and Co-Founder, Adept AI Labs
+  category: panelists
